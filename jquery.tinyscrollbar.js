@@ -11,8 +11,9 @@
  * Depends on library: jQuery
  *
  */
+var jQuery  = $;
 
-(function($){
+(function($,undefined){
   $.tiny = $.tiny || { };
 
   $.tiny.scrollbar = {
