@@ -1,6 +1,6 @@
 include ../../build/modules.mk
 
-MODULE = tinyscroller
+MODULE = tinyscrollbar
 FILENAME = ${MODULE}.js
 SOURCE = jquery.${MODULE}.js
 PRODUCTION = ${PRODUCTION_DIR}/${FILENAME}
